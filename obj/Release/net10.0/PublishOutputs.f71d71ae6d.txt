@@ -1,7 +1,0 @@
-C:\Users\Administrator\VenxWeb\publish\VenxWeb.exe
-C:\Users\Administrator\VenxWeb\publish\appsettings.Development.json
-C:\Users\Administrator\VenxWeb\publish\appsettings.json
-C:\Users\Administrator\VenxWeb\publish\VenxWeb.dll
-C:\Users\Administrator\VenxWeb\publish\VenxWeb.runtimeconfig.json
-C:\Users\Administrator\VenxWeb\publish\VenxWeb.pdb
-C:\Users\Administrator\VenxWeb\publish\VenxWeb.deps.json
