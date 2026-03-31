@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VenxWeb")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+14854dc73142383f463eaba7075c7d46fe23cf99")]
 [assembly: System.Reflection.AssemblyProductAttribute("VenxWeb")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VenxWeb")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

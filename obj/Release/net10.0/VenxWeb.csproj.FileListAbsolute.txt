@@ -174,3 +174,4 @@ C:\Users\Administrator\VenxWeb\obj\Release\net10.0\scopedcss\Components\Pages\Ho
 C:\Users\Administrator\VenxWeb\obj\Release\net10.0\compressed\ibkr8h7tc2-{0}-i17qu87z34-i17qu87z34.gz
 C:\Users\Administrator\VenxWeb\obj\Release\net10.0\compressed\75zu4mp3hi-{0}-berzcwge42-berzcwge42.gz
 C:\Users\Administrator\VenxWeb\obj\Release\net10.0\compressed\yspe61elef-{0}-berzcwge42-berzcwge42.gz
+C:\Users\Administrator\VenxWeb\obj\Release\net10.0\VenxWeb.sourcelink.json
