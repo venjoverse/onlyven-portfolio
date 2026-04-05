@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wmzs7sTuWPI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrator\\VenxWeb\\VenxWeb.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.aspnetcore.app.internal.assets\\10.0.4\\microsoft.aspnetcore.app.internal.assets.10.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
